@@ -1,0 +1,52 @@
+* Created by: Lily C
+* Created on: 03/20/2023
+* This CSS file defines the style for index.html
+* Unit2-04-PHP-AreaTriangle
+*/
+
+form {
+  background-color: lightyellow;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #FFE74D;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  color: #6798C0;
+}
+
+h3 {
+  background-color: #99D6EA;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  color: #FDD85D;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #6798C0;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
+
+body {
+  background-color: #fdf181;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
